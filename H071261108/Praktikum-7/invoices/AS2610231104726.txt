@@ -1,0 +1,12 @@
+========== INVOICE ==========
+Nama kasir: anugrah s
+Waktu: 2026-10-23 11:04:29
+ID Transaksi: AS2610231104726
+-----------------------------
+Produk: kk
+Harga: Rp 34
+Jumlah: 2
+Subtotal: Rp 68
+-----------------------------
+TOTAL: Rp 68
+=============================
